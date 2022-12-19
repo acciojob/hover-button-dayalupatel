@@ -3,12 +3,12 @@
 
 #btn{
     color: white;
-    background-color: black;
+    background: black;
     border-radius: 5px;
 }
 
 #btn:hover {
     color: black;
-    background-color: yellow;
+    background: yellow;
     border-radius: 30px;
 }
